@@ -117,6 +117,8 @@ cp path/to/downloads/coco.names .
 ```
 
 ## Project Structure
+
+```bash
 video-streaming/
 │
 ├── server.py # Main server implementation
@@ -128,7 +130,7 @@ video-streaming/
 │ └── coco.names # Class names
 │
 └── README.md # Documentation
-
+```
 
 ## Implementation Details
 
