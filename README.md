@@ -10,7 +10,7 @@ A comprehensive real-time video streaming application that utilizes GStreamer fo
 - [Project Structure](#project-structure)
 - [Implementation Details](#implementation-details)
 - [YOLO Integration](#yolo-integration)
-- [USAGE GUIDE](#usage-guide)
+- [Usage Guide](#usage-guide)
 
 ## Features
 - Real-time video capture from webcam
@@ -70,6 +70,7 @@ A comprehensive real-time video streaming application that utilizes GStreamer fo
    # Add to System PATH:
    D:\gstreamer\1.0\msvc_x86_64\bin
    ```
+This part is for Windows users. There are some errors because of Windows can not find path. So you need add directly.
 
 ### 3. YOLO Requirements
 Download the following files:
