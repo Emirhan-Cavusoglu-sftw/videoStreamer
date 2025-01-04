@@ -9,11 +9,8 @@ A comprehensive real-time video streaming application that utilizes GStreamer fo
 - [Installation Guide](#installation-guide)
 - [Project Structure](#project-structure)
 - [Implementation Details](#implementation-details)
-- [Usage Guide](#usage-guide)
-- [API Reference](#api-reference)
 - [YOLO Integration](#yolo-integration)
-- [Troubleshooting](#troubleshooting)
-- [Contributing](#contributing)
+- [USAGE GUIDE](#usage-guide)
 
 ## Features
 - Real-time video capture from webcam
